@@ -1,0 +1,3 @@
+﻿  Search.cpp
+c:\users\dooyup\desktop\search\search\search\search.cpp(19): warning C4101: 'temp' :참조되지 않은 지역 변수입니다.
+  Search.vcxproj -> C:\Users\DOOYUP\Desktop\Search\Search\Debug\Search.exe
